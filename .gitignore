@@ -1,0 +1,9 @@
+*.obj
+*.sdf
+*.suo
+*.user
+/Debug
+IniAnalysis/Debug
+/TestResults
+UnitTest1/Debug
+/ipch

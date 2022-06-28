@@ -1,0 +1,8 @@
+LIBRARY   "INIANALYSIS"
+EXPORTS
+	getLine @1
+	Section @2
+	Key	@3
+	GetAllSection @4
+	MyGetString @5
+	MyGetInt @6
