@@ -2,6 +2,7 @@
 *.sdf
 *.suo
 *.user
+*.opensdf
 /Debug
 IniAnalysis/Debug
 /TestResults
